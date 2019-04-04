@@ -13,3 +13,4 @@ def voucher_gen():
         f1.write(str(0))
         f1.close()
         print('Today is your day off')
+voucher_gen()
